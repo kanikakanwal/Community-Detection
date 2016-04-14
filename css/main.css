@@ -30,9 +30,9 @@ $on-laptop:        700px;
     }
 }
 
- Import partials from `sass_dir` (defaults to `_sass`)
+ 
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+        "_sass/_base",
+        "_sass/_layout",
+        "_sass/_syntax-highlighting"
 ;
