@@ -32,7 +32,7 @@ $on-laptop:        700px;
 
  
 @import
-        "_sass/_base",
-        "_sass/_layout",
-        "_sass/_syntax-highlighting"
+        '_sass/_base.css',
+        '_sass/_layout.css',
+        '_sass/_syntax-highlighting.css'
 ;
