@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
-
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+github link to code:
+github link to project web page:
+youtube link to video:
+slideshare link to ppt:
+dropbox link to ppt report video:
