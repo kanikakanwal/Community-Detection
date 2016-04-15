@@ -18,6 +18,4 @@ In this project, “Community Detection from Research Articles”, the task is t
 
 # Tags
 
-`Graphs` `Networks` `Community Detection` `Partitioning` `Clustering`
-`Kmeans` `Newman-Girvan` `Louvain` `ACL` `Gephi` 
-`Major Project` `Information Retrieval and Extraction Course` `IIIT-H`
+`Graphs` `Networks` `Community Detection` `Partitioning` `Clustering` `Kmeans` `Newman-Girvan` `Louvain` `ACL` `Gephi` `Major Project` `Information Retrieval and Extraction Course` `IIIT-H`
