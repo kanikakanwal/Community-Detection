@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-* Github link to code: https://github.com/hitesh96db/Community-Detection
-* Youtube video: https://www.youtube.com/watch?v=i0wM5QxPrpQ&feature=youtu.be
-* Slideshare PPT link: http://www.slideshare.net/KanikaKanwal/community-detection-60926367
-* Dropbox link: https://www.dropbox.com/s/b818i5mmg50s51z/IRE_PPT_Report_Video.tar.gz?dl=0
+* Code: https://goo.gl/CXej44
+* Youtube video: https://goo.gl/SCpamf
+* Slideshare PPT: http://goo.gl/XzOZdC
+* Dropbox (Report, PPT, Video): https://goo.gl/cgACzU
