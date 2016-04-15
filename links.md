@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Links
+permalink: /links/
 ---
 * Code: https://goo.gl/CXej44
 * Youtube video: https://goo.gl/SCpamf
